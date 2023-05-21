@@ -18,6 +18,14 @@ Number of people feeling optimistic: 2,632
 Number of people feeling negative: 621
 Number of people feeling neutral: 2,283
 
+<img width="507" alt="Screenshot 2023-05-20 at 10 51 29 PM" src="https://github.com/DarkInventor/Tweet-Sentiment-Analysis-Artififical-Intelligence-/assets/67015517/060ebd20-3c60-4d86-83f5-a956cccc2b7f">
+
+<img width="579" alt="Screenshot 2023-05-20 at 10 51 41 PM" src="https://github.com/DarkInventor/Tweet-Sentiment-Analysis-Artififical-Intelligence-/assets/67015517/0af988d8-86d9-48e8-9d60-d550208ce7c1">
+
+<img width="785" alt="Screenshot 2023-05-20 at 10 51 52 PM" src="https://github.com/DarkInventor/Tweet-Sentiment-Analysis-Artififical-Intelligence-/assets/67015517/f9eede67-8a94-4b5e-88f1-260cbd1f676d">
+
+
+
 To provide a visual representation of the sentiments, I created a pie chart. From the analysis, I discovered that out of 5,536 users, 47.5% felt positive about artificial intelligence, 11.2% felt negative, and 41.2% expressed a neutral sentiment.
 
 Additionally, I used bar charts and word clouds for further data visualization, which helped to present the data in a more engaging and understandable manner.
